@@ -13,7 +13,7 @@ Now when you add image, it should be uploaded to the "images" folder. You can ve
 
 The PHP upload script is very basic with no security and is not recommended for general public use. You should either add security or find a better PHP upload script, there are many free ones...
 
-I had some issues with default icons not showing up in toolbar, no clue why... If you have issue and can figure it out, please share. Since I normally use custom icons, no time to solve that mystery. You can add custom icons to Summernote at:
+I had some issues with default icons not showing up in toolbar, no clue why (could be because of naming summernote-imgupload.js)... If you have icon issue and can figure it out, please share. Since I normally use custom icons, no time to solve that mystery. You can add custom icons to Summernote at:
 
 https://github.com/StudioJunkyard/LibreICONS
 
