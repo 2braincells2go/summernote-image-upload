@@ -2,7 +2,7 @@ Summernote WYSIWYG editor converts uploaded images to base64.
 
 http://summernote.org/
 
-This modified version (based on v0.8.2) allows images to be stored on server.
+This modified version (based on v0.8.2) allows images to be stored on server. You can see upload mod around line 6928 in file summernote-imgupload.js
 
 Recommended test for production servers:
 
